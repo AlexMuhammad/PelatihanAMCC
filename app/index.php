@@ -23,5 +23,6 @@ if (isset($_POST['btnSubmit'])) {
         <br><br>
         <button type="submit" name="btnSubmit">Hitung</button>
     </form>
+    <h1>Test</h1>
 </body>
 </html>
